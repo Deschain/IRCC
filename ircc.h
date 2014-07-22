@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2012 Óscar Rodríguez Zaloña <100083976@alumnos.uc3m.es>
+ * Copyright (C) 2012 Óscar <tierrabaldia@gmail.com>
  *
  * This program is free software; you can redistribute it and/or modify it
  * under the terms of the GNU Lesser General Public License as published by
